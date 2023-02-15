@@ -1,0 +1,33 @@
+body{
+    border-width: 7px;
+    border-style: solid;
+    border-color: black;
+    background-color: gray;
+    margin-block: brown;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+li{
+    display: none;
+}
+h1{
+    font-family: verdana;
+    color:red;
+    text-align:center
+}
+
+h4{
+    font-family: verdana;
+    color: brown;
+    text-align:center
+}
+
+p{
+    font-family: verdana;
+    text-align: center;
+}
+
+
